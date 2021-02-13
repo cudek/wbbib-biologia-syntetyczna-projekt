@@ -1,3 +1,6 @@
 /.ipynb_checkpoints/*
 *.pdf
 .idea
+*.pyc
+~$*
+*.bak
